@@ -15,7 +15,7 @@ The `src/Experiments` folder contains several React single-page application (SPA
 A simple counter application that demonstrates:
 - Basic `useState` hook usage
 - Event handling with increment and decrement buttons
-- Styled with glassmorphism effects (using `Experiment1_Counter.css`)
+- Modern UI with glass-like styling effects using backdrop blur (see `Experiment1_Counter.css`)
 
 ### Experiment 2: To-Do List SPA (`Experiment2_Todo.jsx`)
 A to-do list application featuring:
